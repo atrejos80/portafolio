@@ -1,0 +1,98 @@
+{
+    "main": {
+        "title": "HELLO WORLD",
+        "subtitle": "My name is",
+        "Intro": "I am a systems engineer with roots in Bugalagrandeñas, Colombia 🌎. I am passionate about building and improving information systems. I stand out for my authentic leadership and teamwork skills, as well as my ability to teach and apply innovative methods. I easily adapt to challenging situations and am committed to achieving exceptional results while maintaining a human focus in everything I do.",
+        "message": "Full-stack software developer",
+        "button_cv": "Resume",
+        "OptionEn":"English",
+        "OptionEs":"Spanish"
+    },
+    "education": {
+        "title": "EDUCATION",
+        "carda1": {
+            "title_card": "Principles of Routing and Switching",
+            "Institution": "CISCO Networking Academy",
+            "time": "2019"
+        },
+        "carda2": {
+            "title_card": "Systems Engineering",
+            "Institution": "National Open and Distance University",
+            "time": "2016-2019"
+        },
+        "carda3": {
+            "title_card": "ICONTEC",
+            "Institution": "ISO 9001 Quality Management Systems Auditor",
+            "time": "2019"
+        },
+        "carda4": {
+            "title_card": "SENA",
+            "Institution": "Technologist in Analysis and Information Systems",
+            "time": "2013-2015"
+        }
+    },
+    "experience":{
+        "title": "EXPERIENCE",
+        "card1":{
+            "charge":"NATIONAL IT SOLUTIONS ANALYST",
+            "task":"Tasks",
+            "taksMessage": "Development of a customer service application called Nuevo Atentos, where requests, complaints, claims, and reports (PQRD) are received. The project is currently 85% complete. We work under the Scrum Master methodology where in some sprints I performed as a software developer and in others as a QA Engineer, gathering functional and non-functional requirements, documenting user stories, use cases, and mockups. Technology (Angular-TypeScript-JavaScript-HTML-CCS3) DB (Oracle)",
+            "company":"COOMEVA EPS",
+            "date":"Start date: Mar. 2021 - Nov. 2021",
+            "location":"Cali, Valle del Cauca, Colombia · Hybrid"
+        },
+        "card2":{
+            "charge":"SENIOR PROGRAMMER ANALYST",
+            "task":"Tasks",
+            "taksMessage": "Development of a sales and billing application called Pos Web for Drogas La Rebaja, where I play a key role in creating and improving modules using technologies such as PHP Framework Yii2, jQuery, Bootstrap, and JavaScript. I also work in database management in MySQL and Linux server management. Additionally, I have been part of the development of microservices using technologies like NestJS, Angular, and MongoDB, working within the Scrum methodology.",
+            "company":"COPSERVIR",
+            "date":"Start date: Dec. 2021 - Present",
+            "location":"Cali, Valle del Cauca · Remote"
+        },
+        "card3":{
+            "charge":"IT MANAGER",
+            "task":"Tasks",
+            "taksMessage": "Analyst and system leader, where my main function was to lead, perform tests, and gather requirements for hospital and administrative software (modification, updating, or error correction). I also conducted internal audits based on ISO 9001, network administration using Windows Server 2012, Linux. Another of my functions was to control the acquisition and delivery of equipment, configuration, preventive and corrective maintenance of computer equipment, network to ensure all information systems function properly.",
+            "company":"HOSPITAL SAN BERNABE",
+            "date":"Start date: Dec. 2017 - 2021",
+            "location":"Bugalagrande, Valle del Cauca"
+        },
+        "card4":{
+            "charge":"SOFTWARE DEVELOPER",
+            "task":"Tasks",
+            "taksMessage": "Development of a farmer registration software (CRUP), crops and products of all the rural areas in Bugalagrande, with their personal data, farm sizes, and cultivated products. The software also includes statistics on the most cultivated products in certain rural areas or the entire municipality. Technology (Java JDBC-JavaScript -HTML5-CCS3) DB (Mysql)",
+            "company":"ALCALDIA DE BUGALAGRANDE",
+            "date":"Start date: Jun. 2016 - Dec. 2016",
+            "location":"Bugalagrande, Valle del Cauca"
+        }
+    },
+    "skills":{
+        "title":"Skills"
+    },
+    "projects":{
+        "title":"Projects",
+        "buttonView":"View",
+        "buttonGit": "Git"
+    },
+    "contact":{
+        "title":"Contact",
+        "name":"Name",
+        "number":"Number",
+        "email":"Email", 
+        "message":"Message",
+        "sendMessage":"Send Message",
+        "charge":"Systems Engineer",
+        "description":"I am available to work as a full-stack software developer. Get in touch with me and I will be happy to talk to you.",
+        "connect":"Connect with me"
+    },
+    "footer":{
+        "socials":"Socials",
+        "email":"Email",
+        "nationality":"Nationality"
+    },
+    "navbar": {
+        "home":"Home",
+        "contact":"Contact me",
+        "lang":"Language: "
+    }
+}

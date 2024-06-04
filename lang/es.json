@@ -1,0 +1,100 @@
+{
+    "main": {
+        "title": "Hola mundo",
+        "subtitle": "Mi nombre es",
+        "Intro": "Soy ingeniero de sistemas con raíces en Bugalagrandeñas, Colombia 🌎, me apasiona construir y mejorar sistemas de información. Me destaco por mi liderazgo auténtico y habilidades en el trabajo en equipo, además de mi capacidad para enseñar y aplicar métodos innovadores. Me adapto fácilmente a situaciones desafiantes y estoy comprometido a lograr resultados excepcionales mientras mantengo un enfoque humano en todo lo que hago.",
+        "message": "Desarrollador de software full stack",
+        "button_cv": " Hoja de vida",
+        "OptionEn":"Inglés",
+        "OptionEs":"Español"
+    },
+    "education": {
+        "title": "EDUCACIÓN",
+        "carda1": {
+            "title_card": "Principios de routing y switching",
+            "Institution": "CISCO Networking Academy",
+            "time": "2019"
+        },
+        "carda2": {
+            "title_card": "Ingeniería en sistemas",
+            "Institution": "universidad Nacional Abierta y a Distancia",
+            "time": "2016-2019"
+        },
+
+        "carda3": {
+            "title_card": "ICONTEC",
+            "Institution": "Auditor Sistemas de Gestión y Calidad ISO 9001",
+            "time": "2019"
+        },
+        "carda4": {
+            "title_card": "SENA",
+            "Institution": "Tecnologo en analisis y sistemas de información",
+            "time": "2013-2015"
+        }
+    },
+    "experience":{
+        "title": "EXPERIENCIA",
+        "card1":{
+            "charge":"ANALISTA NACIONAL DE SOLUCIONES INFORMÁTICAS",
+            "task":"Tareas",
+            "taksMessage": "Desarrollo de aplicación de servicio al cliente llamada Nuevo Atentos donde se reciben peticiones, quejas, reclamos y denuncias (PQRD) el proyecto actual mente está en un Desarrollo del 85% para su culminación, Trabajamos bajo la metodología Scrum Master donde en algunos Sprint los desempeñaba como desarrollador de software y otros como Ingeniero QA, donde se hacia levantamiento de requerimientos funcionales y no funcionales, documentación de historias de usuario, casos de uso, mockups. Tecnología (Agular-TypeScript- JavaScript -HTML-CCS3 ) DB (Oracle)",
+            "company":"COOMEVA EPS",
+            "date":"Inicio : Maz. 2021 - Novi 2021",
+            "location":"Cali, Valle del Cauca, Colombia · Híbrido"
+        },
+        "card2":{
+            "charge":"ANALISTA PROGRAMADOR SENIOR",
+            "task":"Tasks",
+            "taksMessage": "Desarrollo de aplicación de ventas y facturación llamado Pos Web de drogas la rebaja, en el cual desempeño un papel fundamental en la creación y mejora de módulos utilizando tecnologías como PHP Framework Yii2, jQuery, Bootstrap y JavaScript. Además, he trabajado en la gestión de bases de datos en MySQL y en el manejo de servidores Linux. Por último, he sido parte del desarrollo de microservicios utilizando tecnologías como NestJS, Angular y MongoDB, trabajando dentro de la metodología Scrum.",
+            "company":"COPSERVIR",
+            "date":"Inicio : Dic 2021 - Actualidad  ",
+            "location":"Cali, Valle Del Cauca · Remoto"
+        },
+        "card3":{
+            "charge":"JEFE DE SISTEMAS",
+            "task":"Tasks",
+            "taksMessage": "Analista y líder sistemas, en los cuales mi principal función fue liderar, realizar pruebas y levantamiento de requerimiento al software hospitalario y administrativo, sobre (modificación, actualización o corregir errores), También realice auditorías internas, basadas en la norma ISO 9001, Administrador de red mediante Windows server 2012, Linux. también una de mi función fue controlar la adquisición y entrega de equipos de la institución, configuración, mantenimiento preventivo y correctivo de los equipos de cómputo, red para que todos los sistemas de información funcionen correctamente.",
+            "company":"HOSPITAL SAN BERNABE",
+            "date":"Inicio : Dic 2017 - 2021  ",
+            "location":"Bugalagrande, Valle Del Cauca"
+        },
+        "card4":{
+            "charge":"DESARROLLO DE SOFTWARE",
+            "task":"Tasks",
+            "taksMessage": "Elaboración de software de registros de campesinos CRUP, de cultivos y productos de todas las veredas en bugalagrande, con sus datos personales, tamaño de sus fincas y productos que cultivan, el software también tiene implementado la estadística de cuáles eran los productos más Cultivados en algunas veredas o todo el municipio. Tecnología (Java JDBC-JavaScript -HTML5-CCS3) BD (Mysql)sas",
+            "company":"ALCALDIA DE BUGALAGRANDE",
+            "date":"Inicio : Jun 2016 - Dic 2016  ",
+            "location":"Bugalagrande, Valle Del Cauca"
+        }
+        
+    },
+    "skills":{
+        "title":"Habilidades"
+    },
+    "proyects":{
+        "title":"proyectos",
+        "buttonView":"Ver",
+        "buttonGit": "Git"
+    },
+    "contact":{
+        "title":"Contacto",
+        "name":"nombre",
+        "number":"número",
+        "email":"correo", 
+        "message":"mensaje",
+        "sendMessage":"enviar mensaje",
+        "charge":"Ingeniería de sistemas",
+        "description":"Estoy disponible para trabajar como desarrollador de software full stack. Ponte en contacto conmigo y estaré encantado de hablar contigo.",
+        "connect":"Conecta conmigo"
+    },
+    "footer":{
+        "socials":"Redes",
+        "email":"Correo",
+        "nationality":"Nacionalidad"
+    },
+    "navbar": {
+        "home":"Inicio",
+        "contact":"contactame",
+        "lang":"idioma : "
+    }
+}
